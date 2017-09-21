@@ -1,0 +1,46 @@
+EmployerID,EmployerName,StreetAddress,City,StateProv,PostalCode,Country,ContactFirstName,ContactLastName,Position,Phone,Website,NAICSCode
+10122,Beantown Tours,105 State Street,Boston,MA,02109,USA,Sarah,Tasker,Office Manager,6174511970,TRUE,56152
+10125,Boston Harbor Excursions,75 Atlantic Avenue,Boston,MA,02110,USA,Beth,Petr,Office Manager,6172351800,TRUE,72232
+10126,Bayside Inn & Country Club,354 Oceanside Drive,Brewster,MA,02631,USA,Jeffrey,Hersha,General Manager,5082835775,TRUE,72111
+10130,Seaview Restaurant,15 North Harbor Lane,Falmouth,MA,02540,USA,Donald,Bouwman,Manager,5087768593,FALSE,72211
+10131,Claire's Cottages,88 Main Street,Orleans,MA,02653,USA,Claire,Markovicz,Manager,5088221328,FALSE,72111
+10133,The Inn at Plum Hill,354 Union Street,Vineyard Haven,MA,02568,USA,Michele,Yasenak,General Manager,5086932320,TRUE,721191
+10134,Capt'n John's Seafood,22 Old Colony Way,Orleans,MA,02653,USA,John,Fairbrother,Manager,5082558721,FALSE,722211
+10135,The Adele Bannister House,151 Thames Street,Newport,RI,02840,USA,Cheryl,Coppolino,General Manager,4018493093,TRUE,721191
+10138,Blue Hill Inn & Country Club,52 Blue Hill Lane,Chatham,MA,02633,USA,Hwan,Tang,Personnel Director,5088930808,TRUE,72111
+10145,The Clipper Ship Inn,5 Cliffside Drive,Rockport,MA,01966,USA,Oren,Ben-Joseph,Personnel Manager,9785460193,TRUE,721191
+10146,Newport Mansion Guided Tours,75 Ocean Drive,Newport,RI,02840,USA,Katherine,Foley,Personnel Director,4018496544,TRUE,56152
+10149,Falling Leaves Tours,389 Birch Avenue,Sturbridge,MA,01566,USA,Jessica,Ropiak,Director,5083475331,TRUE,56152
+10150,Colonial Caravan Tours,91 Bedford Road,Concord,MA,01742,USA,John,Logan,Manager,9783718086,TRUE,56152
+10151,Granite State Resort,41 Hayward Avenue,North Conway,NH,03860,USA,Christine,Faraci,HR Manager,6034688866,TRUE,72111
+10152,Alpine Touring Center,57 Main Street,Bethel,ME,04217,USA,Mary,Grant,Manager,2078249976,FALSE,71392
+10154,All Seasons Resort,45 Oceanside Way,Falmouth,MA,02540,USA,Chelsea,Petraitis,Director,5083890777,TRUE,72111
+10155,The Bramble Restaurant,52 Wingate Drive,Hyannis,MA,02601,USA,Rodrigo,Valencia,Manager,5082770387,FALSE,722211
+10156,Seaport Scenic Tours,87 Cottrell Street,Mystic,CT,06355,USA,Greg,Robitaille,Director,8605723989,TRUE,71393
+10158,Maritime & Museum Tours,7 Winter Street,Salem,MA,01947,USA,Olivia,Alexander,Manager,9787450202,TRUE,56152
+10159,Summit Hotel & Conference Center,19 White Mountain Highway,Franconia,NH,03480,USA,Nancy,Shea,Personnel Manager,6038239787,TRUE,72111
+10162,Darby Inn & Restaurant,52 Chestnut Street,Woodstock,VT,05091,USA,Jahnavi,Sonthi,Manager,8029874603,FALSE,721191
+10163,Belleview Resort,29 Eden Street,Bar Harbor,ME,04609,USA,Akash,Shah,Personnel Director,2072881961,TRUE,72111
+10165,Seaside Excursions,103 Newport Drive,Camden,ME,04843,USA,Scott,Moreau,Manager,2078129954,TRUE,71393
+10167,Ski & Stay,587 Mountain Road,Stowe,VT,05672,USA,Nathan,Weiss,Personnel Manager,8022530809,FALSE,71392
+10170,Whittier Resort & Spa,15 Summer Street,Stockbridge,MA,01262,USA,Rebecca,Giannopoulous,Manager,4132980811,TRUE,72111
+10174,Pier Restaurant,210 Memorial Boulevard,Westerly,RI,02808,USA,Wen-Yi,Huang,Manager,4015960383,FALSE,72211
+10175,Lion's Mouth Inn,38 Langley Road,Stowe,VT,05672,USA,Bryce,Kervin,HR Manager,8022539775,TRUE,721191
+10176,NH Fall Foliage Tours,7 Alcott Road,North Conway,NH,03860,USA,Sam,Bethel,Director,6034687093,TRUE,56152
+10180,George's Restaurant & Galley,90 Main Street,Bar Harbor,ME,04609,USA,Victoria,Gonzalez,Manager,2072887750,FALSE,722211
+10185,Moondance Inn & Ski Resort,75 Thorn Hill Road,Lincoln,NH,03251,USA,Sonya,Krikorian,Personnel Director,6036359208,TRUE,721191
+10190,The Briar Rose Inn,105 Queen Street,Charlottetown,PE,C1A 8R4,Canada,Helen,MacDonald,Manager,9026261595,TRUE,721191
+10191,Windsor Alpine Tours,14 Longmeadow Road,Laconia,NH,03246,USA,Michael,Engber,Manager,6032669233,TRUE,71392
+10194,Pear Tree Inn & Restaurant,30 Richmond Road,Lenox,MA,01240,USA,Rachel,Camara,Manager,4136374745,TRUE,721191
+10195,Gables & Golf Country Club,38 Graham's Lane,Cavendish,PE,C0A 1N0,Canada,Spencer,Mewherter,General Manager,9029631555,TRUE,71391
+10197,Aidan's of Mystic,390 West Main Road,Mystic,CT,06355,USA,Aidan,Gaughan,Manager,8605721276,FALSE,72232
+10198,Trudel Spa & Resort,40 Rue Rivard,North Hatley,QC,J0B 2C0,Canada,Francoise,Boucher,Personnel Manager,8198427783,TRUE,72111
+10201,Auberge St-Germaine,50 Rue Bellevue,St-Donat,QC,J0T 2C0,Canada,Jacques,Belanger,Director,8194249003,TRUE,721191
+10210,Stonehurst Inn,3 Market Street,Halifax,NS,B3J 3N9,Canada,Gavin,McDonough,Manager,9024848354,FALSE,721191
+10217,Harbourview Resort,97 Fenwick Road,Halifax,NS,B3J 3N9,Canada,Louise,Tremblay,Personnel Manager,9024840850,TRUE,72111
+10218,Canfield Golf & Country Club,12 Broadway,East Hartford,CT,06108,USA,Celia,Johnson,Personnel Manager,8605697580,TRUE,71391
+10220,Hotel du Nord,149 Bonsecours Street,Montreal,QC,H2Y 2X6,Canada,Martine,Normand,General Manager,5148424623,TRUE,72111
+10222,Whitney's Resort & Spa,80 Carter Notch Road,Twin Mountain,NH,03595,USA,Matthew,Lim,Director,6038465956,TRUE,72111
+10223,The Berkshire House,61 Breaker Street,Lenox,MA,01240,USA,Lubin,Jian,Manager,4136379670,FALSE,721191
+10225,Harbor Whale Watch Tours,17 Commercial Street,Boothbay Harbor,ME,04538,USA,Alexander,Benton,Director,2076331290,FALSE,56152
+10226,Lighthouse Tours,23 Corn Neck Road,Block Island,RI,02807,USA,Andrew,Adgate,Director,4014663080,TRUE,56152
